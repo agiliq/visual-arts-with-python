@@ -1,7 +1,7 @@
-Let us make some beautiful things with Python.
-
 Visual Arts with Python
 =======================
+
+Let us make some beautiful things with Python.
 
 .. toctree::
    :maxdepth: 2
